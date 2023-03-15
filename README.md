@@ -1,4 +1,4 @@
-Iniciamos mostrando que no tenemos ningun producto en la lista
+<b>Iniciamos mostrando que no tenemos ningun producto en la lista</b>
 
 [![xm3oSh.jpg](https://i.postimg.cc/Qx43gLKD/xm3oSh.jpg)](https://postimg.cc/CzqXYQ4r)
 
