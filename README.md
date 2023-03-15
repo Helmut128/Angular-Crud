@@ -1,12 +1,8 @@
-Iniciamos mostrando que no tenemos ningun producto en la lista
-
+Iniciamos mostrando que no tenemos ningun producto en la lista 
 [![xm3oSh.jpg](https://i.postimg.cc/Qx43gLKD/xm3oSh.jpg)](https://postimg.cc/CzqXYQ4r)
 
-
 Boton de agregar producto
-
 [![image.png](https://i.postimg.cc/Mp9mKDLd/image.png)](https://postimg.cc/k2tbTxqb)
-
 
 Agregamos producto
 
@@ -20,7 +16,5 @@ Editamos el producto
 
 [![image.png](https://i.postimg.cc/5t0d6s20/image.png)](https://postimg.cc/RWjbYQf5)
 
-
 Producto modificado 
-
 [![image.png](https://i.postimg.cc/5tZ7bgHD/image.png)](https://postimg.cc/hJ1b0910)
